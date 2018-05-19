@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wise Movie</string>
+    <string name="signin_button">Sign In</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="title_activity_data_base_helper">DataBaseHelper</string>
+    <string name="title_activity_main2">Wise Movie</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_image_test">ImageTestActivity</string>
+    <string name="title_activity_movie_info">MovieInfo</string>
+    <string name="title_activity_authenticate">Authenticate</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_details">MovieDetails</string>
+    <string name="title_activity_favorite_movies">FavoriteMovies</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_movies"
+            android:icon="@drawable/ic_movies"
+            android:title="Upcoming Movies" />
+        <item
+            android:id="@+id/nav_authentication"
+            android:icon="@drawable/ic_auth"
+            android:title="Authentication" />
+
+        <item
+            android:id="@+id/nav_prefered_movies"
+            android:icon="@drawable/ic_star"
+            android:title="Favorite Movies"
+            android:visible="false"/>
+
+        <item
+            android:id="@+id/logout_btn"
+            android:icon="@drawable/ic_auth"
+            android:title="Logout"
+            android:visible="false"/>
+    </group>
+
+</menu>
